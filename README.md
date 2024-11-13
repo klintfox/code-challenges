@@ -1,6 +1,6 @@
 # Portafolio 
 
-**Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:**
+**Portafolio sobre diversas tecnologías y herramientas de desarrollo de software**
 
 ## **BACKEND DEVELOPMENT**
 Proyectos de desarrollo backend utilizando diferentes lenguajes de programación.
@@ -9,13 +9,10 @@ Proyectos de desarrollo backend utilizando diferentes lenguajes de programación
 - [Python API Empleados](https://github.com/klintfox/api_employee_python)
 
 ### 2 Java
-- [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
-- [Java Course Spring Eureka Netflix](https://github.com/klintfox/course-spring-eureka-netflix)
-- [Java Course Spring Eureka Netflix Config](https://github.com/klintfox/course-spring-eureka-netflix-config)
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
 - [API Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
 - [API Rest Employee MongoDb JPA](https://github.com/klintfox/api-rest-employee-mongodb-jpa)
-- [Java Spring Boot]
+
 
 #### 2.1 Mockito 
 
