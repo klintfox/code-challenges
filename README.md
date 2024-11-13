@@ -1,4 +1,4 @@
-# Portafolio de Klint F.
+# Portafolio
 
 **Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:**
 
