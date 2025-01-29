@@ -160,7 +160,7 @@ Proyectos basados en la nube para el manejo de infraestructuras como servicio (I
 - [AWS Lambda]
 
 ### Azure
-- [Azure Terraform Pipeline](https://github.com/klintfox/azure-devops-kubernetes-terraform-pipeline)
+- [Azure Terraform]
 
 ### Google Cloud
 - [Google Cloud]
