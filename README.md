@@ -1,4 +1,4 @@
-# Projects 
+# Code Challenges 
 
 **Portafolio de proyectos sobre diversas tecnologías y herramientas de desarrollo de software**
 
