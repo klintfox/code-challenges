@@ -23,10 +23,6 @@ Proyectos de desarrollo backend utilizando diferentes lenguajes de programación
 - [Junit]
 
 ### 3 Node.JS
-- [Rest Nestjs Example](https://github.com/klintfox/ws-rest-nestjs/tree/master)
-- [Nodejs GraphQL Crud MongoDb](https://github.com/klintfox/nodejs-graphql-crud-mongodb)
-- [Message Queue Rabbitmq](https://github.com/klintfox/message-queue-rabbitmq)
-
 
 ## **MOBILE DEVELOPMENT**
 
