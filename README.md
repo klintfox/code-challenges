@@ -11,8 +11,6 @@ Proyectos de desarrollo backend utilizando diferentes lenguajes de programación
 ### 2 Java
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
 - [API Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
-- [API Rest Employee MongoDb JPA](https://github.com/klintfox/api-rest-employee-mongodb-jpa)
-
 
 #### 2.1 Mockito 
 
