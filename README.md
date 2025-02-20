@@ -1,35 +1,32 @@
-# Code Challenges 
+# Code Challenges
 
-**Portafolio de proyectos sobre diversas tecnologías y herramientas de desarrollo de software**
+**Portfolio of projects using various technologies and software development tools**
 
 ## **BACKEND DEVELOPMENT**
-Proyectos de desarrollo backend utilizando diferentes lenguajes de programación.
+Backend development projects using different programming languages.
 
 ### 1 Python
-- [Python API Empleados](https://github.com/klintfox/api_employee_python)
+- [Python Employee API](https://github.com/klintfox/api_employee_python)
 
 ### 2 Java
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
-- [API Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
+- [SOAP Rest Employee API](https://github.com/klintfox/api-soap-rest-employee)
 
-#### 2.1 Mockito 
-
+#### 2.1 Mockito
 - [Mockito]
 
 #### 2.2 JUnit
+- [JUnit]
 
-- [Junit]
-
-### 3 Node.JS
+### 3 Node.js
 
 ## **MOBILE DEVELOPMENT**
 
 ### 1 Android
-Proyectos de aplicaciones móviles construidas principalmente con Android y Kotlin.
+Mobile application projects primarily built with Android and Kotlin.
 
 - [Android App with Kotlin]
 - [Google Maps API]
-
 
 ## **API DOCUMENTATION**
 
@@ -39,9 +36,8 @@ Proyectos de aplicaciones móviles construidas principalmente con Android y Kotl
 ### 2 Compodoc
 - [Compodoc]
 
-
 ## **FRONTEND DEVELOPMENT**
-Proyectos de desarrollo frontend utilizando tecnologías modernas y populares para la construcción de interfaces de usuario.
+Frontend development projects using modern and popular technologies for building user interfaces.
 
 ### 1 React
 - [React App]
@@ -52,111 +48,85 @@ Proyectos de desarrollo frontend utilizando tecnologías modernas y populares pa
 ### 3 Streamlit
 - [Streamlit]
 
-
 ## **DATABASE**
 
-### **Relacionales** 
-Las bases de datos relacionales organizan los datos en tablas y utilizan SQL (Structured Query Language) para gestionarlas.
+### **Relational**
+Relational databases organize data into tables and use SQL (Structured Query Language) to manage them.
 
-### 1 MySQL: 
-
+### 1 MySQL:
 - []
 
-### 2 PostgreSQL: 
-
+### 2 PostgreSQL:
 - []
 
-### 3 Microsoft SQL Server (MSSQL): 
-
+### 3 Microsoft SQL Server (MSSQL):
 - []
 
-### 4 Oracle Database: 
-
+### 4 Oracle Database:
 - []
 
-### 5 SQLite: 
-
+### 5 SQLite:
 - []
 
-
-### **No Relaciones**
-Las bases de datos NoSQL están diseñadas para manejar grandes volúmenes de datos no estructurados, y no utilizan SQL como su lenguaje principal.
+### **NoSQL**
+NoSQL databases are designed to handle large volumes of unstructured data and do not use SQL as their primary language.
 
 ### 1 MongoDb
-
 - []
 
 ### 2 ElasticSearch
-
 - []
 
+### **Cloud-Based**
+Cloud databases offer managed database services, often without the need to manage the underlying hardware or infrastructure.
 
-### **En la Nube**
-Las bases de datos en la nube ofrecen servicios gestionados de bases de datos, a menudo sin necesidad de administrar el hardware ni la infraestructura subyacente.
-
-### 1 Amazon RDS (Relational Database Service): 
-
+### 1 Amazon RDS (Relational Database Service):
 - []
 
-### 2 Google Cloud SQL: 
-
+### 2 Google Cloud SQL:
 - []
 
-### 3 Azure SQL Database: 
-
+### 3 Azure SQL Database:
 - []
 
-### 4 Firebase Realtime Database: 
-
+### 4 Firebase Realtime Database:
 - []
 
-
-### **En Memoria**
-Estas bases de datos almacenan los datos directamente en la memoria RAM para proporcionar acceso extremadamente rápido.
+### **In-Memory**
+These databases store data directly in RAM for extremely fast access.
 
 ### 1 Redis
+- [Redis]
 
-- [Redis] 
-
-
-## **MESSAGEING**
+## **MESSAGING**
 
 ### RabbitMQ
-
 - [RabbitMQ]
 
 ### Nats Streaming
-
 - [Nats Streaming]
-
 
 ## **DEVOPS**
 
 ### Docker
-
 - [Docker Building Images](https://github.com/klintfox/docker-images)
 
 ### Kubernetes
-
 - [Kubernetes]
 
 ### Jenkins
-
 - [Jenkins]
 
 ### Ansible
-
 - [Ansible]
 
 ### Terraform
-
 - [Terraform]
 
-
 ## **CLOUD**
-Proyectos basados en la nube para el manejo de infraestructuras como servicio (IaaS) y funciones como servicio (FaaS).
+Cloud-based projects for managing infrastructure as a service (IaaS) and functions as a service (FaaS).
 
-### Aws Cloud
+### AWS Cloud
 - [AWS Lambda]
 
 ### Azure
@@ -164,4 +134,3 @@ Proyectos basados en la nube para el manejo de infraestructuras como servicio (I
 
 ### Google Cloud
 - [Google Cloud]
-
