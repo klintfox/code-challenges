@@ -109,7 +109,12 @@ These databases store data directly in RAM for extremely fast access.
 ## **DEVOPS**
 
 ### Docker
+<<<<<<< HEAD
 - [Docker Building Images](https://github.com/klintfox/docker-images)
+=======
+
+- [Docker]
+>>>>>>> e9b7c1d158e1a33143351097b8cc76b87b26063b
 
 ### Kubernetes
 - [Kubernetes]
@@ -130,7 +135,7 @@ Cloud-based projects for managing infrastructure as a service (IaaS) and functio
 - [AWS Lambda]
 
 ### Azure
-- [Azure Terraform Pipeline](https://github.com/klintfox/azure-devops-kubernetes-terraform-pipeline)
+- [Azure Terraform]
 
 ### Google Cloud
 - [Google Cloud]
