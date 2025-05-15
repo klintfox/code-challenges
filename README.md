@@ -11,6 +11,8 @@ Backend development projects using different programming languages.
 ### 2 Java
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
 - [SOAP Rest Employee API](https://github.com/klintfox/api-soap-rest-employee)
+- [OAuth User Service](https://github.com/klintfox/user-service)
+- [Scratch Game](https://github.com/klintfox/scratch-game)
 
 #### 2.1 Mockito
 - [Mockito]
